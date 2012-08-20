@@ -1,0 +1,114 @@
+DONATION RANKS
+---------------
+
+
+Range: $5 - $19
+Prefix: &b[$]
+SPAWN:
+- Spawn House (One story, 15X15)
+- Spawn Shop (Set posistion)
+- Instant use of lava and Water
+- Access to Black Market (Donator Shop)
+COMMANDS:
+> Access to /home
+> Access to /md zombie
+ITEMS:
+* Set of Diamond Armor
+* Diamond Pickaxe
+MONEY:
+* Recieve $5000 Mix-Bucks
+
+
+Range: $20 - $49
+Prefix: &3[$$]
+SPAWN:
+- Upgraded Spawn House (Two stories, 20X20)
+- Spawn shop (Set posistion)
+- Instant use of lava and Water
+- Access to Black Market (Donator Shop)
+COMMANDS:
+> Access to /home
+> Access to /md zombie
+> Access to /kit food (16 Cooked Porkchop, 16 Apples, 1 Golden Apple - Only used once every 8 hours)
+> Access to Lockette
+> Access to /md pig, /md chicken, /md cow
+ITEMS:
+* 5 Diamond Blocks
+* Diamond Sword
+* Diamond Axe
+* Diamond Shovel
+MONEY:
+* Recieve $15,000 Mix-Bucks
+
+
+Range: $50 - $199
+Prefix: &1[$$$]
+Suffix: &e
+SPAWN:
+- Upgraded Spawn house (Three stories, 25X25)
+- Spawn Shop (Set posistion)
+- Instant use of lava and Water
+- Access to Black Market (Donator Shop)
+- Access to the Staff Room
+COMMANDS:
+> Access to /home
+> Access to /md zombie
+> Access to /kit food (16 Cooked Porkchop, 16 Apples, 1 Golden Apple - Only used once every 8 hours)
+> Access to Lockette
+> Access to /md pig, /md chicken, /md cow
+> Access to /md skeleton, /md enderman, /md wolf, /md ocelot, /md blaze, /md slime, /md magma cube
+> Access to /kit poison (5 Poison II Splash Potions - Once every 24 hours)
+> Access to /kit speed (5 Swiftness Potions - Once every 24 hours)
+> Access to /kit health (5 Healing Potions - Once every 24 hours)
+> Access to /kit pyro (Gives 2 Buckets of Lava, 5 Flint & Steel, 32 Fire Charges - Once every 24 hours)
+> Access to /kit xp (Gives 10 Bottle's O' Enchanting - Once every 48 hours)
+ITEMS:
+* Diamond Pick w/ Efficiancy II, Fortune II
+* Diamond Sword w/ Sharpness III, Knockback II
+* Iron Boots w/ Feather Falling IV
+* 10 Diamond Blocks
+* 64 Obsidian
+* 32 Mossy Brick
+* 32 Cracked Brick
+* 32 Creeper Stone
+MONEY:
+* Recieve $30,000 Mix-Bucks 
+
+"Midas Touch"
+Range: $200 +
+Prefix: &8[*$*]
+Suffix: &6
+SPAWN: 
+- MAXED OUT House - MANSION (Four stories, 30X30)
+- Spawn Shop (Set posistion)
+COMMANDS:
+> Access to /home
+> Access to /md zombie
+> Access to /kit food (16 Cooked Porkchop, 16 Apples, 1 Golden Apple - Only used once every 8 hours)
+> Access to Lockette
+> Access to /md pig, /md chicken, /md cow
+> Access to /md skeleton, /md enderman, /md wolf, /md ocelot, /md blaze, /md slime, /md magma cube
+> Access to /kit poison (5 Poison II Splash Potions - Once every 24 hours)
+> Access to /kit speed (5 Swiftness Potions - Once every 24 hours)
+> Access to /kit health (5 Healing Potions - Once every 24 hours)
+> Access to /kit pyro (Gives 2 Buckets of Lava, 5 Flint & Steel, 32 Fire Charges - Once every 24 hours)
+> Access to /kit xp (Gives 10 Bottle's O' Enchanting - Once every 48 hours)
+> Access to /md creeper, /md villager, /md ghast, /md silverfish, /md squid
+> Access to /kit obsidian (Gives one stack [64] of Obsidian - Once every 48 hours)
+> Access to /kit lab (3 ghast tears, 3 Blaze Rods, 5 Netherwart - Once every 48 hours)
+> Access to /kit Creeper (Gives you 3 Creeper eggs - Once every 72 hours)
+ITEMS:
+* 15 Diamond Blocks
+* Diamond Sword w/ Sharpness IV, Flame II, Looting III
+* Diamond Axe w/ Efficiancy IV, Unbreaking III
+* Diamond Shovel w/ Efficiancy IV, Unbreaking III
+* Diamond Pick w/ Efficiancy III, Silk Touch, Fortune III
+* Diamond Chest Plate w/ Potection IV
+* Diamond Boots w/ Feather Falling IV
+* 10 Diamond Blocks
+* 64 Obsidian
+* 64 Mossy Brick
+* 64 Cracked Brick
+* 64 Creeper Stone
+MONEY:
+*Recieve $100,000 Mix-Bucks
