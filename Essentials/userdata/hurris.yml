@@ -1,0 +1,13 @@
+timestamps:
+  login: 1345185582712
+  logout: 1345185644883
+ipAddress: 107.2.103.99
+ban:
+  reason: 'Banned: The Ban Hammer has spoken!'
+lastlocation:
+  world: Spawn
+  x: 4920.0
+  y: 63.0
+  z: 5142.0
+  yaw: 0.0
+  pitch: 0.0

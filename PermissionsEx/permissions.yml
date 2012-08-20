@@ -1,0 +1,294 @@
+groups:
+  GLaDOS:
+    default: false
+    prefix: '&6[GLaDOS]&8'
+    suffix: '&b'
+    options:
+      rank: 100
+      rank-ladder: Owner
+    inheritance:
+    - Co-Owner
+    worlds:
+  Owner:
+    default: false
+    prefix: '&9[Owner]&5'
+    suffix: '&b'
+    options:
+      rank: 200
+      rank-ladder: Owner
+    inheritance:
+    - Co-Owner
+  Co-Owner:
+    default: false
+    prefix: '&5[Co-Owner]&9'
+    options:
+      rank: 300
+      rank-ladder: Owner
+    permissions:
+    - myhome.*
+    - vanish.standard
+    - vanish.smokin
+    - vanish.toggle.all
+    - vanish.statusupdates
+    - vanish.adminalerts
+    - banreport.*
+    - CreativeGuard.*
+    - multiverse.*
+    - iconomy.*
+    - nocheatplus.*
+    - mobdisguise.*
+    - nocheatplus.checks.chat.color
+    - ChestShop.*
+    - dynmap.*
+    - autokick.*
+    - permissions.*
+    inheritance:
+    - Executive
+  Executive:
+    default: false
+    prefix: '&4[Executive]&8'
+    options:
+      rank: 400
+      rank-ladder: Owner
+    build: true
+    permissions:
+    - permissions.user.promote.default
+    inheritance:
+    - Development
+  Development:
+    default: false
+    prefix: '&2[Dev]&a'
+    suffix: '&c'
+    options:
+      rank: 500
+      rank-ladder: Owner
+    build: true
+    permissions:
+    - myhome.*
+    - vanish.standard
+    - vanish.smokin
+    - vanish.toggle.all
+    - vanish.statusupdates
+    - vanish.adminalerts
+    - banreport.*
+    - CreativeGuard.*
+    - multiverse.*
+    - iconomy.*
+    - nocheatplus.*
+    - mobdisguise.*
+    - nocheatplus.checks.chat.color
+    - ChestShop.*
+    - dynmap.*
+    - autokick.*
+    - permissions.manage.membership.*
+    inheritance:
+    - Administrator
+  Administrator:
+    default: false
+    prefix: '&4[Admin]&c'
+    options:
+      rank: 100
+    build: true
+    permissions:
+    - <name>.*
+    - actions.*
+    - worldedit.*
+    - -worldedit.limit.unrestricted
+    - -worldedit.anyblock
+    - worldguard.*
+    - banreport.ban
+    - banreport.unban
+    - banreport.banip
+    - banreport.tempban
+    - commandbook.*
+    - FreezeTime.freezetime
+    - commandbook.say.me
+    - hawkeye.*
+    inheritance:
+    - Moderator
+  Moderator:
+    default: false
+    prefix: '&6[Mod]&e'
+    options:
+      rank: 200
+    build: true
+    permissions:
+    - <name>.*
+    - commandbook.mute
+    - commandbook.say.me
+    - worldguard.region.remove.*
+    - worldguard.region.teleport.*
+    - worldguard.region.flag.*
+    - worldguard.region.list
+    - worldguard.region.removemember.*
+    - worldguard.region.addmember.*
+    - worldguard.region.removeowner.*
+    - worldguard.region.addowner.*
+    - worldguard.region.select.*
+    - worldguard.region.redefine
+    - worldguard.region.define
+    - worldedit.wand.toggle
+    - worldedit.wand
+    - worldedit.selection.*
+    - tpp.admin.bypass.notp
+    - banreport.kick
+    - banreport.warn
+    - banreport.baninfo
+    - banreport.bantp
+    - banreport.warnings.viewall
+    - multiverse.portal.list
+    - multiverse.teleport.other
+    - multiverse.core.spawn.other
+    - multiverse.portal.access.staffroom
+    - multiverse.portal.access.staffroom2
+    - commandbook.weather
+    - commandbook.whois
+    - commandbook.time
+    - tpp.tp.player
+    - tpp.tp.coords
+    - tpp.world.tp
+    - tpp.tp.here
+    - tpp.others.*
+    - ChestShop.mod
+    - mywarp.admin
+    - chatmanager.chat.*
+    - hawkeye.page
+    - hawkeye.search
+    - hawkeye.tool
+    - vanish.fakeannounce
+    - vanish.statusupdates
+    - vanish.toggle.all
+    - vanish.standard
+    - PyActions.*
+    - CreativeGuard.unblock.*
+    - autokick.nokick
+    - adminchat.send
+    - adminchat.receive
+    - adminchat.toggle
+    inheritance:
+    - Member
+  Member:
+    default: false
+    prefix: '&5[Member]&d'
+    options:
+      rank: 300
+    build: true
+    inheritance:
+    - Guest
+    worlds:
+  Guest:
+    default: true
+    prefix: '&f[Guest]&f'
+    options:
+      rank: 400
+    build: true
+    permissions:
+    - modifyworld.*
+    - multiverse.portal.access.creative
+    - multiverse.portal.access.creative2
+    - multiverse.portal.access.survival
+    - multiverse.portal.access.survival2
+    - multiverse.portal.access.survival_play
+    - multiverse.help
+    - multiverse.teleport.self.*
+    - multiverse.core.coord
+    - multiverse.core.info
+    - multiverse.core.list.who
+    - multiverse.core.list.worlds
+    - multiverse.core.spawn.self
+    - multiverse.core.version
+    - banreport.warnings.own
+    - commandbook.who
+    - commandbook.motd
+    - commandbook.rules
+    - commandbook.time.check
+    - commandbook.biome
+    - commandbook.spawn
+    - commandbook.msg
+    - commandbook.away
+    - commandbook.whereami
+    - commandbook.whereami.compass
+    - commandbook.clear
+    - commandbook.gamemode.check
+    - commandbook.afk
+    - tpp.tp.menu
+    - tpp.tp.toggle
+    - tpp.tp.clear
+    - tpp.version
+    - tpp.tp.back
+    - tpp.tp.origin
+    - worldguard.region.info
+    - worldguard.region.addowner.own.*
+    - worldguard.region.removeowner.own.*
+    - worldguard.region.addmember.own.*
+    - worldguard.region.removemember.own.*
+    - worldguard.region.list.own
+    - worldguard.region.flag.regions.own.*
+    - worldguard.region.flag.flags.build.*
+    - worldguard.region.flag.flags.passthrough.*
+    - worldguard.region.flag.flags.chest-access.*
+    - worldguard.region.flag.flags.use.*
+    - worldguard.region.flag.flags.vehicle-place.*
+    - worldguard.region.flag.flags.vehicle-destroy.*
+    - worldguard.region.flag.flags.snow-fall.*
+    - worldguard.region.flag.flags.snow-melt.*
+    - worldguard.region.flag.flags.ice-form.*
+    - worldguard.region.flag.flags.ice-melt.*
+    - worldguard.region.flag.flags.leaf-decay.*
+    - worldguard.region.flag.flags.grass-growth.*
+    - worldguard.region.flag.flags.greeting.*
+    - worldguard.region.flag.flags.farewell.*
+    - worldguard.region.flag.flags.teleport.*
+    - worldguard.region.setpriority.own.*
+    - worldguard.region.setparent.own.*
+    - worldguard.region.remove.own.*
+    - mywarp.warp.basic.warp
+    - mywarp.warp.sign.warp
+    - mywarp.warp.basic.delete
+    - mywarp.warp.basic.welcome
+    - mywarp.warp.basic.compass
+    - mywarp.warp.basic.list
+    - mywarp.warp.basic.search
+    - mywarp.warp.soc.*
+    - mywarp.warp.sign.warp
+    - myhome.home.basic.*
+    - marriage.list
+  Host:
+    prefix: '&3[Host]&e'
+    options:
+      rank: 1000
+    inheritance:
+    - Administrator
+worlds:
+  Survival_nether:
+    inheritance:
+    - Survival
+  Survival_the_end:
+    inheritance:
+    - Survival
+users:
+  MizzGlitch:
+    group:
+    - Owner
+    prefix: ''
+    suffix: '&b'
+  Inami_Minoru:
+    group:
+    - Executive
+    prefix: ''
+    suffix: '&6'
+  Mreynolds93:
+    group:
+    - Executive
+    prefix: ''
+    suffix: '&6'
+  Shaanie:
+    group:
+    - Host
+    prefix: ''
+    suffix: ''
+  Blackshad0w:
+    group:
+    - Executive
+    prefix: ''
+    suffix: ''

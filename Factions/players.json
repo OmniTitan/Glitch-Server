@@ -1,0 +1,32 @@
+{
+  "MizzGlitch": {
+    "factionId": "0",
+    "role": "NORMAL",
+    "title": "",
+    "power": 5.42257,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1345474149070,
+    "lastLoginTime": 1345472522299,
+    "chatMode": "PUBLIC"
+  },
+  "Shaanie": {
+    "factionId": "1",
+    "role": "ADMIN",
+    "title": "",
+    "power": 0.0,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1345472396677,
+    "lastLoginTime": 1345472396677,
+    "chatMode": "PUBLIC"
+  },
+  "BlackShad0w": {
+    "factionId": "0",
+    "role": "NORMAL",
+    "title": "",
+    "power": 1.0203233333333332,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1345474149070,
+    "lastLoginTime": 1345473842973,
+    "chatMode": "PUBLIC"
+  }
+}

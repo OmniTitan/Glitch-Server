@@ -1,0 +1,109 @@
+2012-08-17 01:51:32 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-08-17 01:51:32 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn' - Env: NORMAL - Type: NORMAL & seed: 8158615554849442296
+2012-08-17 01:51:32 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn_nether' - Env: NETHER - Type: NORMAL & seed: -7370445613771039528
+2012-08-17 01:51:32 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2012-08-17 01:51:32 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 64 Z: 0 P: 0 Y: 0 
+2012-08-17 01:51:32 [INFO] [Multiverse-Core] New Spawn for 'Spawn_nether' is Located at: Spawn_nether:-2.50,64.00,-2.50:0.00:0.00
+2012-08-17 01:51:32 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn_the_end' - Env: THE_END - Type: NORMAL & seed: -7370445613771039528
+2012-08-17 01:51:32 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2012-08-17 01:51:32 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 50 Z: 0 P: 0 Y: 0 
+2012-08-17 01:51:32 [INFO] [Multiverse-Core] New Spawn for 'Spawn_the_end' is Located at: Spawn_the_end:0.00,64.00,0.00:0.00:0.00
+2012-08-17 01:51:32 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn' - Env: NORMAL - Type: NORMAL & seed: 8158615554849442296
+2012-08-17 01:51:32 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn_nether' - Env: NETHER - Type: NORMAL & seed: -7370445613771039528
+2012-08-17 01:51:32 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn_the_end' - Env: THE_END - Type: NORMAL & seed: -7370445613771039528
+2012-08-17 01:51:32 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2012-08-17 03:22:38 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-08-17 03:22:38 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn' - Env: NORMAL - Type: NORMAL & seed: 8158615554849442296
+2012-08-17 03:22:38 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn_nether' - Env: NETHER - Type: NORMAL & seed: -7370445613771039528
+2012-08-17 03:22:38 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn_the_end' - Env: THE_END - Type: NORMAL & seed: -7370445613771039528
+2012-08-17 03:22:38 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2012-08-17 03:23:32 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-08-17 03:23:32 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn' - Env: NORMAL - Type: NORMAL & seed: 8158615554849442296
+2012-08-17 03:23:32 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn_nether' - Env: NETHER - Type: NORMAL & seed: -7370445613771039528
+2012-08-17 03:23:32 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn_the_end' - Env: THE_END - Type: NORMAL & seed: -7370445613771039528
+2012-08-17 03:23:32 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2012-08-17 03:24:30 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-08-17 03:24:30 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn' - Env: NORMAL - Type: NORMAL & seed: 8158615554849442296
+2012-08-17 03:24:30 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn_nether' - Env: NETHER - Type: NORMAL & seed: -7370445613771039528
+2012-08-17 03:24:30 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn_the_end' - Env: THE_END - Type: NORMAL & seed: -7370445613771039528
+2012-08-17 03:24:30 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2012-08-18 01:12:22 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-08-18 01:12:22 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn' - Env: NORMAL - Type: NORMAL & seed: 8158615554849442296
+2012-08-18 01:12:22 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn_nether' - Env: NETHER - Type: NORMAL & seed: -7370445613771039528
+2012-08-18 01:12:22 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn_the_end' - Env: THE_END - Type: NORMAL & seed: -7370445613771039528
+2012-08-18 01:12:22 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2012-08-19 22:45:02 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-08-19 22:45:02 [INFO] [Multiverse-Core] Loading World & Settings - 'Factions' - Env: NORMAL - Type: NORMAL & seed: 966390978238900482
+2012-08-19 22:45:02 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2012-08-19 22:45:02 [WARNING] [Multiverse-Core] Original Location: X: 256 Y: 64 Z: -148 P: 0 Y: 0 
+2012-08-19 22:45:02 [INFO] [Multiverse-Core] New Spawn for 'Factions' is Located at: Factions:257.50,64.00,-153.50:0.00:0.00
+2012-08-19 22:45:02 [INFO] [Multiverse-Core] Loading World & Settings - 'Factions_nether' - Env: NETHER - Type: NORMAL & seed: 966390978238900482
+2012-08-19 22:45:02 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2012-08-19 22:45:02 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 64 Z: 0 P: 0 Y: 0 
+2012-08-19 22:45:02 [INFO] [Multiverse-Core] New Spawn for 'Factions_nether' is Located at: Factions_nether:-4.50,66.00,8.50:0.00:0.00
+2012-08-19 22:45:03 [INFO] [Multiverse-Core] Loading World & Settings - 'Factions_the_end' - Env: THE_END - Type: NORMAL & seed: 966390978238900482
+2012-08-19 22:45:03 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2012-08-19 22:45:03 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 50 Z: 0 P: 0 Y: 0 
+2012-08-19 22:45:03 [INFO] [Multiverse-Core] New Spawn for 'Factions_the_end' is Located at: Factions_the_end:0.00,63.00,0.00:0.00:0.00
+2012-08-19 22:45:03 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn' - Env: NORMAL - Type: NORMAL & seed: 8158615554849442296
+2012-08-19 22:45:03 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn_nether' - Env: NETHER - Type: NORMAL & seed: -7370445613771039528
+2012-08-19 22:45:04 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn_the_end' - Env: THE_END - Type: NORMAL & seed: -7370445613771039528
+2012-08-19 22:45:04 [INFO] [Multiverse-Core] Loading World & Settings - 'Factions' - Env: NORMAL - Type: NORMAL & seed: 966390978238900482
+2012-08-19 22:45:04 [INFO] [Multiverse-Core] Loading World & Settings - 'Factions_nether' - Env: NETHER - Type: NORMAL & seed: 966390978238900482
+2012-08-19 22:45:04 [INFO] [Multiverse-Core] Loading World & Settings - 'Factions_the_end' - Env: THE_END - Type: NORMAL & seed: 966390978238900482
+2012-08-19 22:45:04 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2012-08-19 23:10:39 [INFO] [Multiverse-Core] Loading World & Settings - 'Survival' - Env: NORMAL - Type: null
+2012-08-19 23:24:19 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-08-19 23:24:19 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn' - Env: NORMAL - Type: NORMAL & seed: 8158615554849442296
+2012-08-19 23:24:19 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn_nether' - Env: NETHER - Type: NORMAL & seed: -7370445613771039528
+2012-08-19 23:24:20 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn_the_end' - Env: THE_END - Type: NORMAL & seed: -7370445613771039528
+2012-08-19 23:24:20 [INFO] [Multiverse-Core] Loading World & Settings - 'Factions' - Env: NORMAL - Type: NORMAL & seed: 966390978238900482
+2012-08-19 23:24:20 [INFO] [Multiverse-Core] Loading World & Settings - 'Factions_nether' - Env: NETHER - Type: NORMAL & seed: 966390978238900482
+2012-08-19 23:24:20 [INFO] [Multiverse-Core] Loading World & Settings - 'Factions_the_end' - Env: THE_END - Type: NORMAL & seed: 966390978238900482
+2012-08-19 23:24:20 [INFO] [Multiverse-Core] Loading World & Settings - 'Survival' - Env: NORMAL - Type: NORMAL & seed: 3621239125101696888
+2012-08-19 23:24:20 [INFO] [Multiverse-Core] 7 - World(s) loaded.
+2012-08-19 23:32:26 [INFO] [Multiverse-Core] World 'Survival' was unloaded from memory.
+2012-08-19 23:34:40 [INFO] [Multiverse-Core] World 'Spawn_nether' was unloaded from memory.
+2012-08-19 23:34:54 [INFO] [Multiverse-Core] World 'Spawn_the_end' was unloaded from memory.
+2012-08-19 23:35:13 [INFO] [Multiverse-Core] World 'Spawn' was unloaded from memory.
+2012-08-19 23:44:02 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-08-19 23:44:03 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn' - Env: NORMAL - Type: NORMAL & seed: 8158615554849442296
+2012-08-19 23:44:18 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn_nether' - Env: NETHER - Type: NORMAL & seed: -7370445613771039528
+2012-08-19 23:44:24 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn_the_end' - Env: THE_END - Type: NORMAL & seed: -7370445613771039528
+2012-08-19 23:44:26 [INFO] [Multiverse-Core] Loading World & Settings - 'Factions' - Env: NORMAL - Type: NORMAL & seed: 966390978238900482
+2012-08-19 23:44:26 [INFO] [Multiverse-Core] Loading World & Settings - 'Factions_nether' - Env: NETHER - Type: NORMAL & seed: 966390978238900482
+2012-08-19 23:44:26 [INFO] [Multiverse-Core] Loading World & Settings - 'Factions_the_end' - Env: THE_END - Type: NORMAL & seed: 966390978238900482
+2012-08-19 23:44:26 [INFO] [Multiverse-Core] Loading World & Settings - 'Survival' - Env: NORMAL - Type: NORMAL & seed: 3621239125101696888
+2012-08-19 23:44:27 [INFO] [Multiverse-Core] 7 - World(s) loaded.
+2012-08-20 07:33:27 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-08-20 07:33:27 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn' - Env: NORMAL - Type: NORMAL & seed: 8158615554849442296
+2012-08-20 07:33:27 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn_nether' - Env: NETHER - Type: NORMAL & seed: -7370445613771039528
+2012-08-20 07:33:28 [INFO] [Multiverse-Core] Loading World & Settings - 'Spawn_the_end' - Env: THE_END - Type: NORMAL & seed: -7370445613771039528
+2012-08-20 07:33:28 [INFO] [Multiverse-Core] Loading World & Settings - 'Factions' - Env: NORMAL - Type: NORMAL & seed: 966390978238900482
+2012-08-20 07:33:28 [INFO] [Multiverse-Core] Loading World & Settings - 'Factions_nether' - Env: NETHER - Type: NORMAL & seed: 966390978238900482
+2012-08-20 07:33:28 [INFO] [Multiverse-Core] Loading World & Settings - 'Factions_the_end' - Env: THE_END - Type: NORMAL & seed: 966390978238900482
+2012-08-20 07:33:28 [INFO] [Multiverse-Core] Loading World & Settings - 'Survival' - Env: NORMAL - Type: NORMAL & seed: 3621239125101696888
+2012-08-20 07:33:37 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2012-08-20 07:33:37 [WARNING] [Multiverse-Core] Original Location: X: 36 Y: 64 Z: 252 P: 0 Y: 0 
+2012-08-20 07:33:37 [INFO] [Multiverse-Core] New Spawn for 'Survival' is Located at: Survival:37.50,64.00,252.50:0.00:0.00
+2012-08-20 07:33:37 [INFO] [Multiverse-Core] 7 - World(s) loaded.
+2012-08-20 09:16:34 [INFO] [Multiverse-Core] World 'Spawn' was unloaded from memory.
+2012-08-20 09:16:34 [INFO] [Multiverse-Core] World 'Spawn' was removed from config.yml
+2012-08-20 09:16:34 [INFO] [Multiverse-Core] World Spawn was DELETED.
+2012-08-20 09:17:14 [INFO] [Multiverse-Core] World 'Survival' was unloaded from memory.
+2012-08-20 09:17:14 [INFO] [Multiverse-Core] World 'Survival' was removed from config.yml
+2012-08-20 09:17:14 [INFO] [Multiverse-Core] World Survival was DELETED.
+2012-08-20 09:17:37 [INFO] [Multiverse-Core] World 'Spawn_nether' was unloaded from memory.
+2012-08-20 09:17:37 [INFO] [Multiverse-Core] World 'Spawn_nether' was removed from config.yml
+2012-08-20 09:17:37 [INFO] [Multiverse-Core] World Spawn_nether was DELETED.
+2012-08-20 09:17:58 [INFO] [Multiverse-Core] World 'Spawn_the_end' was unloaded from memory.
+2012-08-20 09:17:58 [INFO] [Multiverse-Core] World 'Spawn_the_end' was removed from config.yml
+2012-08-20 09:17:58 [INFO] [Multiverse-Core] World Spawn_the_end was DELETED.
+2012-08-20 10:19:06 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-08-20 10:19:07 [INFO] [Multiverse-Core] Loading World & Settings - 'Factions' - Env: NORMAL - Type: NORMAL & seed: 966390978238900482
+2012-08-20 10:19:07 [INFO] [Multiverse-Core] Loading World & Settings - 'Factions_nether' - Env: NETHER - Type: NORMAL & seed: 966390978238900482
+2012-08-20 10:19:07 [INFO] [Multiverse-Core] Loading World & Settings - 'Factions_the_end' - Env: THE_END - Type: NORMAL & seed: 966390978238900482
+2012-08-20 10:19:07 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2012-08-20 10:19:07 [WARNING] [Multiverse-Core] The world specified as the spawn world (Spawn) did not exist!!
+2012-08-20 10:44:02 [WARNING] [Multiverse-Core] The world specified as the spawn world (Spawn) did not exist!!
+2012-08-20 10:44:03 [WARNING] [Multiverse-Core] The world specified as the spawn world (Spawn) did not exist!!
