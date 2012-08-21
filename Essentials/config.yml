@@ -245,7 +245,7 @@ backup:
 per-warp-permission: false
 
 # Sort output of /list command by groups
-sort-list-by-groups: false
+sort-list-by-groups: true
 
 # More output to the console
 debug: false
@@ -285,7 +285,7 @@ disable-item-pickup-while-afk: false
 # Should we automatically remove afk status when the player moves?
 # Player will be removed from afk on chat/command reguardless of this setting.
 # Disable this to reduce server lag.
-cancel-afk-on-move: true
+cancel-afk-on-move: false
 
 # You can disable the death messages of minecraft here
 death-messages: true
@@ -316,7 +316,7 @@ repair-enchanted: true
 
 #Do you want essentials to keep track of previous location for /back in the teleport listener?
 #If you set this to true any plugin that uses teleport will have the previous location registered.
-register-back-in-listener: false
+register-back-in-listener: true
 
 #Delay to wait before people can cause attack damage after logging in 
 login-attack-delay: 5
@@ -351,7 +351,7 @@ sethome-multiple:
 
 # Set timeout in seconds for players to accept tpa before request is cancelled.
 # Set to 0 for no timeout
-tpa-accept-cancellation: 0
+tpa-accept-cancellation: 30
 
 ############################################################
 # +------------------------------------------------------+ #

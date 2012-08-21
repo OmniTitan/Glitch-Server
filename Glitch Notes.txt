@@ -1,0 +1,80 @@
+############################ ##########  ##########  ##########  ##############################
+############################## Glitch Config and Perm Notes ###############################
+############################ ##########  ##########  ##########  ##############################
+###### ##########  ##########  ##########  ######  ######  ########  ########  ########  ######
+###### Any commands that have been looked  ######  ######  Names with a "-" in front of  ######
+###### at for the main permission file     ######  ######  them have that permission     ######
+###### and have been used or not will be   ######  ######  specifically removed from     ######
+###### marked with a hash and what group   ######  ######  the group.                    ######
+###### it has been used in.                ######  ######                                ######
+###### ##########  ##########  ##########  ######  ######  ########  ########  ########  ######
+###### Some groups will have access to all ######  ######  All #'s with a * behind them  ######
+###### of these permissions.               ######  ######  have not had their respective ######
+###### ##########  ##########  ##########  ######  ######  perm node added to the group  ######
+###### !! = May error
+###### -! = Does not seem to exist
+###### * = Not in perm file yet
+###### ! = Perm node not found
+#################################################
+############## Instruction - GLitch #############
+###### Writen Y/N/or your answer to the    ######
+###### the left of the question.           ######
+
+
+###### Config Notes #######
+###### Essentials   #######
+
+     - Do you wan't any Kits?
+        If so then either you or I can code them in the essentials config file.
+     - Do you wan't any of the signs to work?
+        By this I mean the signs such as [Buy] or [Sell] and then some others like [Time] and [Weather]
+        These need to be individually turned on before they will work at all.
+     - Do you wan't the economy on? (This is needed for the buy and sell signs)
+     - Do you wan't OP's to have a different color name?
+     - Do you wan't people to be able to have nicknames? If so do you want them to have something prefixing it? e.g. ~TheTitan (The ~ is the prefix)
+        If yes to Nicknames:
+         - do you wan't the nicknames to appear in the "TAB" player list?
+     - Do you wan't a teleport Delay?
+     - Do you wan't teleport invunerability?
+     - Delay between being able to /heal?
+     - Spawn Blacklist is Void as we will be using the worldguard Blacklist.
+     - Spawnmob Limit?
+     - Are there any commands you wan't totally disabled from essentials? (This is to ALL players)
+     - Ignore Restriced Commands, cos we have PeX
+     - How long before someone is considered AFK?
+     - Do you wan't players to be auto kicked from the server if AFK for too long? (I would suggest this if you plan on haveing auto promotion for the base ranks.)
+     - Do you wan't AFK players to be frozen?
+     - Do you wan't people to be able to pick up items when AFK?
+     - Login Delay before people can attack? (Not too long or people may be killed before they can defend themselves)
+     - Do you wan't people to be able to set homes? (May be dangerous as could be used to make a "warp" in enemy territory)
+        If so, how many warps for normal, vip and staff members?
+        
+     #### Economy #### (May be decided later) Line 360 of the Essentials Config
+     - Starting balance of a player?
+     - Item worth will need to be decided, I think BlackShadow has some idea.
+     - Do you wan't any commands to cost?
+        If so we will create a list of them.
+     - What symbol do you wan't to use for Currency?
+     
+     #### Econ Fin ####
+     
+     - Ignore Chat Format, it is done through Chatmanager (When I get it working -_-)
+     - Ignore Essentials Protect, we are using WorldGuard for that.
+     - Ignore Block Alert, this is done through WG Blacklist file.
+     - !! Please check the "General physics/behavior modifications" (line 475) section of the essentials config and check all the option under it.
+     - Ignore Protect Various Blocks
+     - Ignore most "Disable various default physics and behaviors" (line 551)
+        Except Wweather exceptions, choose these options as desired.
+     - What do you wan't the welcome message to new players to be?
+     - NOTE: new players spawnpoint is set LAST!
+     - Do you wan't players to recieve a kit if items when they first join?
+     
+#### Essentials Config Finished ####
+     
+     
+     
+     
+     
+     
+     
+     
