@@ -1,0 +1,57 @@
+groups:
+    Rank1:
+        prefix: '[Player]'
+        default: true
+        permissions:
+    Rank2:
+        prefix: '[Citizen]'
+        default: true
+        permissions:
+    ST-Garden:
+        default: true
+        permissions:
+        - essentials.kit.gardener
+        options:
+            message-format: '%prefix&2%player%suffix&f: &a%message'
+    ST-Cloth:
+        prefix: '[Cloth]'
+        default: true
+        permissions:
+        - essentials.kit.cloth
+        options:
+            message-format: '%prefix&3%player%suffix&f: &d%message'
+    ST-Blacksmith:
+        prefix: '[Blacksmith]'
+        default: true
+        permissions:
+        - essentials.kit.blacksmith
+        options:
+            message-format: '%prefix&0%player%suffix&f: &7%message'
+    ST-Block:
+        prefix: '[BlockMan]'
+        default: true
+        permissions:
+        - essentials.kit.blockshop
+        options:
+            message-format: '%prefix&1%player%suffix&f: &b%message'
+    ST-Bistro:
+        prefix: '[Chef]'
+        default: true
+        permissions:
+        - essentials.kit.bistro
+        options:
+            message-format: '%prefix&5%player%suffix&f: &d%message'
+    ST-Techno:
+        prefix: '[Electrician]'
+        default: true
+        permissions:
+        - essentials.kit.techno
+        options:
+            message-format: '%prefix&4%player%suffix&f: &c%message'
+    ST-General:
+        prefix: '[General]'
+        default: true
+        permissions:
+        - essentials.kit.general
+        options:
+            message-format: '%prefix&6%player%suffix&f: &e%message'
