@@ -201,6 +201,7 @@ kits:
       - 275 1
   gardener:
     delay: 86400
+    items:
       - 295 5
       - 362 5
       - 361 5
@@ -215,6 +216,7 @@ kits:
       - 106 15
   cloth:
     delay: 86400
+    items:
       - 35 25
       - 351:15 15
       - 351:14 15
@@ -234,6 +236,7 @@ kits:
       - 351 15
   blacksmith:
     delay: 86400
+    items:
       - 292 2
       - 256 2
       - 258 2
@@ -247,6 +250,7 @@ kits:
       - 262 50
   blockshop:
     delay: 86400
+    items:
       - 4 32
       - 67 32
       - 1 32
@@ -269,6 +273,7 @@ kits:
       - 121 16
   bistro:
     delay: 86400
+    items:
       - 366 10
       - 364 10
       - 320 10
@@ -280,6 +285,7 @@ kits:
       - 372 5
   techno:
     delay: 86400
+    items:
       - 331 64
       - 76 32
       - 356 16
@@ -293,6 +299,7 @@ kits:
       - 328 4
   general:
     delay: 86400
+    items:
       - 280 64
       - 288 64
       - 318 64

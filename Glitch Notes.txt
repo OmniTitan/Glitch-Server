@@ -71,7 +71,27 @@
      
 #### Essentials Config Finished ####
      
+
+#### Factions Config ####
+
+## Suggestions ##
+     - I think that making it so that you have to claim land ajoining you original plot would help to keep unfair play out?
+     - Perms will need "[FACTION]" string used to determine where the faction name goes.
      
+#### Factions Config End ####
+
+#### WorldGuard Config ####
+#### NOTE: You can look at the config yourself if you wan't, 
+#### this one is very simple and easy to understand :)
+#### NOTE: Any of the options in the config file can be different for each world. 
+#### (Nether and End are separate worlds)
+
+     - Do you wan't to be void, so you can not light it? (This would still allow it as a building material)
+     - Do you wan't Sponges to work?
+     - Do you wan't fire spread?
+     - Block Creepers?
+     - Do you wan't any weather off?
+     - 
      
      
      

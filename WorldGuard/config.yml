@@ -66,7 +66,7 @@ fire:
     disable-fire-spread-blocks: []
     lava-spread-blocks: []
 mobs:
-    block-creeper-explosions: false
+    block-creeper-explosions: true
     block-creeper-block-damage: false
     block-enderdragon-block-damage: false
     block-fireball-explosions: false

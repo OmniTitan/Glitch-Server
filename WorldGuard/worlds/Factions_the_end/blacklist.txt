@@ -47,13 +47,20 @@
 # REMEMBER: If a line has # in front, it will be ignored.
 #
 
-# Deny lava buckets
-#[lavabucket]
-#ignore-perms=my.own.madeup.permission
-#ignore-groups=admins,mods
-#on-use=deny,tell
+# Deny TNT
+[46]
+ignore-perms=glitch.tnt
+on-use=deny,tell
+message=You are not allowed to use TNT.
 
-# Deny some ore
-#[coalore,goldore,ironore]
-#ignore-groups=admins,mods
-#on-break=notify,deny,log
+# Deny Water use
+[8, 9]
+ignore-perms=glitch.water
+on-place=deny,tell,
+message=Only Donators and Staff can place Water and Lava! To donate visit glitch.omnititan.com
+
+# Deny Lava Use
+[10, 11]
+ignore-perms=glitch.lava
+on-place=deny,tell,
+message=Only Donators and Staff can place Water and Lava! To donate visit glitch.omnititan.com
