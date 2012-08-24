@@ -1,0 +1,56 @@
+############################ ##########  ##########  ##########  ##############################
+############################ BlackShadow Config and Perm Notes   ###############################
+############################ ##########  ##########  ##########  ##############################
+###### ##########  ##########  ##########  ######  ######  ########  ########  ########  ######
+###### Any commands that have been looked  ######  ######  Names with a "-" in front of  ######
+###### at for the main permission file     ######  ######  them have that permission     ######
+###### and have been used or not will be   ######  ######  specifically removed from     ######
+###### marked with a hash and what group   ######  ######  the group.                    ######
+###### it has been used in.                ######  ######                                ######
+###### ##########  ##########  ##########  ######  ######  ########  ########  ########  ######
+###### Some groups will have access to all ######  ######  All #'s with a * behind them  ######
+###### of these permissions.               ######  ######  have not had their respective ######
+###### ##########  ##########  ##########  ######  ######  perm node added to the group  ######
+###### !! = May error
+###### -! = Does not seem to exist
+###### * = Not in perm file yet
+###### ! = Perm node not found
+#################################################
+############## Instruction - GLitch #############
+###### Writen Y/N/or your answer to the    ######
+###### the left of the question.           ######
+
+
+Garden Shop Kit- 5 bread seeds, 5 melon seeds, 5 pumpkin seeds,
+ 3 oak saplings, 3 pine saplings, 3 birch saplings, 6 cactus, 
+ 5 pumpkin, 16 reed,  4 red mushroom, 4 brown mushroom, 15 vine. (12 item slots)
+
+Cloth Shop Kit- 25 wool, 15 bonemeal, 15 orange dye, 
+15 magenta dye, 15 light blue dye, 15 dandelion yellow, 
+15 lime dye, 15 pink dye, 15 grey dye, 15 light grey dye,
+ 15 cyan dye, 15 purple dye, 15 lapis lazuli, 15 cocoa, 
+ 15 cactus green, 15 rose red, 15 ink sac. (17 item slots)
+
+Blacksmith Shop Kit- 2 iron hoe, 2 iron shovel, 2 iron axe, 
+2 iron pickaxe, 2 iron sword, 2 leather helm, 2 leather chest,
+ 2 leather pants, 2 leather boots, 3 bow, 50 arrow. (22 item slots)
+
+Block Shop Kit- 32 cobble, 32 cobble stairs, 32 stone, 
+32 stone stairs, 32 cobblestonebrick-!, 32 cobblestonebrick-! stairs, 
+32 sandstone, 32 sandstone stairs, 16 brickblock, 16 brickstairs, 
+16 netherbrick, 16 netherbrick stairs, 16 oak log, 16 pine log, 
+16 birch log, 16 oakwoodplanks, 16 pinewoodplanks, 16 birchwoodplanks, 
+16 oakstairs, 16 pinestairs, 16 birchstairs, 16 end stone. (22 item slots)
+
+Bistro Shop Kit- 10 cooked chicken, 10 cooked beef, 10 cooked pork,
+ 10 cooked fish, 5 mushroom stew, 10 apples, 5 bread, 3 cakes, 
+ 5 water bottles. (13 item slots)
+
+Techno Shop Kit- 64 redstone, 32 redstone torch, 16 redstone
+ repeaters, 16 sticky pistons, 5 levers, 5 buttons, 
+5 stone pressure plates, 5 wood pressure plates,
+ 32 minerail, 16 powered minerail, 4 minecart. (14 slots)
+
+General Shop Kit- 64 sticks, 64 feather, 64 flint, 16 bone, 
+32 coal, 32 string, 10 bowls, 5 gunpowder, 3 compasses, 
+10 cookies, 2 maps, 1 saddle, 16 glass bottles. (14 slots)

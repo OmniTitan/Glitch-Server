@@ -8,7 +8,6 @@ groups:
       rank-ladder: Owner
     inheritance:
     - Co-Owner
-    worlds:
   Owner:
     default: false
     prefix: '&9[Owner]&5'
@@ -90,8 +89,6 @@ groups:
       rank: 100
     build: true
     permissions:
-    - <name>.*
-    - actions.*
     - worldedit.*
     - -worldedit.limit.unrestricted
     - -worldedit.anyblock
@@ -113,7 +110,6 @@ groups:
       rank: 200
     build: true
     permissions:
-    - <name>.*
     - commandbook.mute
     - commandbook.say.me
     - worldguard.region.remove.*
@@ -175,7 +171,6 @@ groups:
     build: true
     inheritance:
     - Guest
-    worlds:
   Guest:
     default: true
     prefix: '&f[Guest]&f'
@@ -287,6 +282,8 @@ users:
     - Host
     prefix: ''
     suffix: ''
+    permissions:
+    - permissions.*
   Blackshad0w:
     group:
     - Executive

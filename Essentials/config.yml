@@ -398,7 +398,7 @@ disable-item-pickup-while-afk: false
 # Should we automatically remove afk status when the player moves?
 # Player will be removed from afk on chat/command reguardless of this setting.
 # Disable this to reduce server lag.
-cancel-afk-on-move: false
+cancel-afk-on-move: true 
 
 # You can disable the death messages of minecraft here
 death-messages: true
@@ -520,13 +520,14 @@ hide-permissionless-help: true
 # +------------------------------------------------------+ #
 ############################################################
 
-chat:
+
 
   # If EssentialsChat is installed, this will define how far a player's voice travels, in blocks.  Set to 0 to make all chat global.
   # Note that users with the "essentials.chat.spy" permission will hear everything, regardless of this setting.
   # Users with essentials.chat.shout can override this by prefixing text with an exclamation mark (!)
   # Or with essentials.chat.question can override this by prefixing text with a question mark (?)
   # You can add command costs for shout/question by adding chat-shout and chat-question to the command costs section."
+chat:
   radius: 0
 
   # Chat formatting can be done in two ways, you can either define a standard format for all chat
@@ -534,12 +535,12 @@ chat:
   # If set to the default chat format which "should" be compatible with ichat.
   # For more information of chat formatting, check out the wiki: http://ess.khhq.net/wiki/Chat_Formatting  
 
-  format: '<{DISPLAYNAME}> {MESSAGE}'
+  format: '-[F]-{DISPLAYNAME}&f: {MESSAGE}'
   #format: '&7[{GROUP}]&f {DISPLAYNAME}&7:&f {MESSAGE}'
 
   group-formats:
-  #  Default: '{WORLDNAME} {DISPLAYNAME}&7:&f {MESSAGE}'
-  #  Admins: '{WORLDNAME} &c[{GROUP}]&f {DISPLAYNAME}&7:&c {MESSAGE}'
+    Host: '&6/[F]&6\{DISPLAYNAME}&4:&6 {MESSAGE}'
+    Executive: '[[F]]{DISPLAYNAME}&f: {MESSAGE}'
 
   # If you are using group formats make sure to remove the '#' to allow the setting to be read.
 
