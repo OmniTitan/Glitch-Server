@@ -1,0 +1,18 @@
+#
+# WorldGuard's world configuration file
+#
+# This is a world configuration file. Anything placed into here will only
+# affect this world. If you don't put anything in this file, then the
+# settings will be inherited from the main configuration file.
+#
+# If you see {} below, that means that there are NO entries in this file.
+# Remove the {} and add your own entries.
+#
+dynamics:
+    disable-mushroom-spread: false
+    disable-ice-melting: false
+    disable-snow-melting: false
+    disable-snow-formation: false
+    disable-ice-formation: false
+    disable-leaf-decay: true
+    disable-grass-growth: false
