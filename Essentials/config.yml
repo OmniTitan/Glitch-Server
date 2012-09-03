@@ -94,6 +94,8 @@ overridden-commands:
 # Disabled commands will be completely unavailable on the server.
 disabled-commands:
 # - nick
+ - warp
+ - warp.list
 
 # Restricted commands have been removed.
 # Now we have a whitelist, all commands not on this list are only available to ops.
@@ -539,7 +541,7 @@ chat:
   #format: '&7[{GROUP}]&f {DISPLAYNAME}&7:&f {MESSAGE}'
 
   group-formats:
-    Host: '&6/[F]&6\{DISPLAYNAME}&4:&6 {MESSAGE}'
+    Host: '&6/[F]&6 \{DISPLAYNAME}&4:&6 {MESSAGE}'
     Executive: '[[F]]{DISPLAYNAME}&f: {MESSAGE}'
 
   # If you are using group formats make sure to remove the '#' to allow the setting to be read.

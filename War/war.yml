@@ -1,0 +1,96 @@
+set:
+  war:
+    config:
+      buildinzonesonly: false
+      disablebuildmessage: false
+      disablepvpmessage: false
+      keepoldzoneversions: true
+      maxzones: 12
+      pvpinzonesonly: false
+      tntinzonesonly: false
+    info:
+      warzones: []
+      zonemakers:
+      - tommytony
+      commandwhitelist:
+      - who
+  warzone:
+    default:
+      config:
+        autoassign: false
+        blockheads: true
+        deathmessages: true
+        disabled: false
+        friendlyfire: false
+        glasswalls: true
+        instabreak: false
+        minteams: 1
+        minplayers: 1
+        monumentheal: 5
+        nocreatures: false
+        nodrops: false
+        pvpinzone: true
+        realdeaths: false
+        resetonempty: false
+        resetonconfigchange: false
+        resetonload: false
+        resetonunload: false
+        unbreakable: false
+  team:
+    default:
+      config:
+        flagmustbehome: true
+        flagpointsonly: false
+        flagreturn: both
+        lifepool: 7
+        maxscore: 10
+        nohunger: false
+        playerloadoutasdefault: false
+        respawntimer: 0
+        saturation: 10
+        spawnstyle: small
+        teamsize: 10
+      loadout:
+        names:
+        - default
+        default:
+          slots:
+          - 0
+          - 1
+          - 2
+          - 3
+          - 4
+          '0':
+            id: 272
+            data: 8
+            amount: 1
+            durability: 8
+          '1':
+            id: 261
+            data: 8
+            amount: 1
+            durability: 8
+          '2':
+            id: 262
+            data: 0
+            amount: 7
+            durability: 0
+          '3':
+            id: 257
+            data: 8
+            amount: 1
+            durability: 8
+          '4':
+            id: 273
+            data: 8
+            amount: 1
+            durability: 8
+      reward:
+        default:
+          slots:
+          - 0
+          '0':
+            id: 354
+            data: 0
+            amount: 1
+            durability: 0

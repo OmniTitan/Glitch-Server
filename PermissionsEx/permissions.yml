@@ -162,18 +162,18 @@ groups:
     - adminchat.receive
     - adminchat.toggle
     inheritance:
-    - Member
-  Member:
+    - Citizen
+  Citizen:
     default: false
-    prefix: '&5[Member]&d'
+    prefix: '&5[Citizen]&d'
     options:
       rank: 300
     build: true
     inheritance:
     - Guest
-  Guest:
+  Member:
     default: true
-    prefix: '&f[Guest]&f'
+    prefix: '&f[Member]&f'
     options:
       rank: 400
     build: true
@@ -254,6 +254,63 @@ groups:
       rank: 1000
     inheritance:
     - Administrator
+    
+###################
+###################
+####Econ Groups####
+###################
+###################
+  ST-Garden:
+      default: true
+      permissions:
+      - essentials.kit.gardener
+      options:
+          message-format: '%prefix&2%player%suffix&f: &a%message'
+  ST-Cloth:
+      prefix: '[Cloth]'
+      default: true
+      permissions:
+      - essentials.kit.cloth
+      options:
+          message-format: '%prefix&3%player%suffix&f: &d%message'
+  ST-Blacksmith:
+      prefix: '[Blacksmith]'
+      default: true
+      permissions:
+      - essentials.kit.blacksmith
+      options:
+          message-format: '%prefix&0%player%suffix&f: &7%message'
+  ST-Block:
+      prefix: '[BlockMan]'
+      default: true
+      permissions:
+      - essentials.kit.blockshop
+      options:
+          message-format: '%prefix&1%player%suffix&f: &b%message'
+  ST-Bistro:
+      prefix: '[Chef]'
+      default: true
+      permissions:
+      - essentials.kit.bistro
+      options:
+          message-format: '%prefix&5%player%suffix&f: &d%message'
+  ST-Techno:
+      prefix: '[Electrician]'
+      default: true
+      permissions:
+      - essentials.kit.techno
+      options:
+          message-format: '%prefix&4%player%suffix&f: &c%message'
+  ST-General:
+      prefix: '[General]'
+      default: true
+      permissions:
+      - essentials.kit.general
+      options:
+          message-format: '%prefix&6%player%suffix&f: &e%message'
+
+
+
 worlds:
   Survival_nether:
     inheritance:

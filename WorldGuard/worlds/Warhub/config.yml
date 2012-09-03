@@ -8,6 +8,15 @@
 # If you see {} below, that means that there are NO entries in this file.
 # Remove the {} and add your own entries.
 #
+weather:
+    prevent-lightning-strike-blocks: []
+    disable-lightning-strike-fire: false
+    disable-thunderstorm: true
+    disable-weather: true
+    disable-pig-zombification: false
+    disable-powered-creepers: false
+    always-raining: true
+    always-thundering: true
 dynamics:
     disable-mushroom-spread: false
     disable-ice-melting: false
